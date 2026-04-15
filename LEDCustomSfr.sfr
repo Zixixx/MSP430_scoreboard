@@ -1,0 +1,6 @@
+[Sfr]
+sfr = "FCTL4",	"Memory",	0x1be,	2,	base=16,	modified
+sfr = "P3SEL",	"Memory",	0x1b,	1,	base=16,	modified
+
+
+[SfrGroupInfo]
